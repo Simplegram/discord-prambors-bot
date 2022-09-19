@@ -7,6 +7,7 @@ Required Interpreter and library (Automatically installed with Pycharm):
 - [Discord.py](https://github.com/Rapptz/discord.py)
 - [Nextcord](https://github.com/nextcord/nextcord)
 - [Wavelink](https://github.com/PythonistaGuild/Wavelink)
+- [Lavalink](https://github.com/freyacodes/Lavalink) (for YouTube search playback)
 - [FFMPEG](https://ffmpeg.org/)
 - [Spotipy](https://github.com/plamere/spotipy)
 - [Beautiful Soup 4](https://github.com/wention/BeautifulSoup4)
