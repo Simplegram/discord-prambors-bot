@@ -107,7 +107,7 @@ async def getty():
 
     get_info()
 
-    result = spotify.search(q=song_title)
+    result = spotify.search(q=f"track:{song_title} artist:{song_artist}")
     track = result['tracks']['items'][0]['album']['images'][0]['url']
 
     song_duration = song_duration/1000
