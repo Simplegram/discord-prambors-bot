@@ -1,2 +1,4 @@
-# discord-prambors-bot
-Discord bot for Prambors radio
+# Discord Prambors Bot
+## A Discord bot made using Nextcord, Wavelink, and FFMPEG
+
+
