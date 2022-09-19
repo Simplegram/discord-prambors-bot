@@ -3,7 +3,7 @@
 
 Invite [Darkgloow bot](https://discord.com/api/oauth2/authorize?client_id=815794671955345438&permissions=6479210496&scope=bot) to quickly play Prambors radio in your Discord server using 'woi prambors'. Alternatively, you can host this bot yourself easily with [Pycharm](https://www.jetbrains.com/pycharm/). Message me at hgloow#2915 if you need more help or when Darkgloow is offline.
 
-### main.py is the main python file. Setup a Pycharm project and copy main.py to your Pycharm project directory. Installed all of the necessary interpreter and library to start hosting.
+### The main python file is main.py. Setup a Pycharm project and copy main.py to your Pycharm project directory. Install all of the necessary interpreter and library to start hosting.
 
 Required Interpreter and library:
 - [Discord.py](https://github.com/Rapptz/discord.py)
