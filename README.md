@@ -10,3 +10,4 @@ Required Interpreter (Automatically installed with Pycharm):
 - Asyncio
 
 ### Prefix = woi
+Use 'woi tolong' to see all the commands available
