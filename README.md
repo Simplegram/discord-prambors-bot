@@ -17,4 +17,4 @@ Use 'woi tolong' to see all the commands available.
 
 ### Credit:
 - [izulwahidin](https://github.com/izulwahidin/Embed-Prambors-Radio) for a permanent Prambors radio link.
-- All the song detail links contained within main.py was scraped from [PramborsFM website](https://live.pramborsfm.com/).
+- [PramborsFM website](https://live.pramborsfm.com/) for necessary song detail links.
