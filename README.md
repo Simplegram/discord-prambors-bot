@@ -15,7 +15,6 @@ Required Interpreter and library (Automatically installed with Pycharm):
 ### Prefix = woi
 Use 'woi tolong' to see all the commands available.
 
-All the links contained within main.py was scraped from [PramborsFM website](https://live.pramborsfm.com/).
-
 ### Credit:
 - [izulwahidin](https://github.com/izulwahidin/Embed-Prambors-Radio) for a permanent Prambors radio link.
+- All the song detail links contained within main.py was scraped from [PramborsFM website](https://live.pramborsfm.com/).
