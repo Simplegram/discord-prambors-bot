@@ -1,7 +1,10 @@
 # Discord Prambors Bot
 ## A Discord bot made using Nextcord, Wavelink, and FFMPEG
 
+Invite [Darkgloow bot](https://discord.com/api/oauth2/authorize?client_id=815794671955345438&permissions=6479210496&scope=bot) to quickly play Prambors radio in your Discord server using 'woi prambors'
+
 You can host this bot easily with [Pycharm](https://www.jetbrains.com/pycharm/)
+
 
 Required Interpreter and library (Automatically installed with Pycharm):
 - [Discord.py](https://github.com/Rapptz/discord.py)
