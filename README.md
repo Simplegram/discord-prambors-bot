@@ -14,3 +14,6 @@ Required Interpreter and library (Automatically installed with Pycharm):
 
 ### Prefix = woi
 Use 'woi tolong' to see all the commands available
+
+Credit:
+- [izulwahidin](https://github.com/izulwahidin/Embed-Prambors-Radio) for a permanent Prambors radio link
