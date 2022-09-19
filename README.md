@@ -1,6 +1,8 @@
 # Discord Prambors Bot
 ## A Discord bot made using Nextcord, Wavelink, and FFMPEG
 
+You can host this bot easily with [Pycharm](https://www.jetbrains.com/pycharm/)
+
 Required Interpreter (Automatically installed with Pycharm):
 - [Discord.py](https://github.com/Rapptz/discord.py)
 - [Nextcord](https://github.com/nextcord/nextcord)
