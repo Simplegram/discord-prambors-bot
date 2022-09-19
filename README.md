@@ -13,6 +13,10 @@ Required Interpreter and library (Automatically installed with Pycharm):
 - [Beautiful Soup 4](https://github.com/wention/BeautifulSoup4)
 - Asyncio
 
+### IMPORTANT:
+- Input your bot token on line 26
+-  Setup your SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET from [Spotify Developers](https://developer.spotify.com) website within your Pycharm environment variables configuration
+
 ### Prefix = woi
 Use 'woi tolong' to see all the commands available.
 
