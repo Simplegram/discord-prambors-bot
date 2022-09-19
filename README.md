@@ -8,3 +8,5 @@ Required Interpreter (Automatically installed with Pycharm):
 - [Spotipy](https://github.com/plamere/spotipy)
 - [Beautiful Soup 4](https://github.com/wention/BeautifulSoup4)
 - Asyncio
+
+### Prefix = woi
